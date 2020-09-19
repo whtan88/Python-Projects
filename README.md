@@ -10,6 +10,7 @@ Below is a list of various projects which I will be engaging on, and will update
 | WH_ML-01 Classification Pima Indian Diabetes  | Supervised Classification Machine Learning on Pima Indian Diabetes dataset  | diabetes.csv  | Completed |
 | WH_ML-02 Classification Iris  | Supervised Classification Machine Learning on Iris dataset   | N/A  | Completed |
 | WH_ML-03 Regression California Housing  | Regression Machine Learning model on California Housing  | N/A  | Completed |
+| WH_ML-04 Capstone Project  | Pneumonia Detection using U-Net mobilenet  | N/A  | Completed |
 | Txt Classification  | Content Cell  | Content Cell  | Coming soon |
 | Image Classification  | Content Cell  | Content Cell  | Coming soon |
 | Chatbot  | Content Cell  | Content Cell  | Coming soon |
